@@ -1,0 +1,16 @@
+CS112 Assignment 1.2
+
+A. What output is produced by the following statements?
+	1. How do you do Seven of Nine.
+	2. 7
+	3. defg
+	4. abc
+	   def
+	5. abc\ndef
+	6. HELLO JOHN
+
+B. What is the value of the expression s1.equals(s2) after the following statements execute?
+	1. FALSE
+	2. FALSE
+	3. TRUE
+
